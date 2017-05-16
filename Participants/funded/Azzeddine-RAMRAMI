@@ -1,0 +1,22 @@
+layout: blocks/page-participant
+title: Azzeddine RAMRAMI
+type: participant
+travel-from     :
+expenses        : owasp
+funded          : yes
+funded-who      : Owasp Foundation
+flight-cost     : 900
+ticket-cost     : 1500
+funded-amount   : 900
+required-funds  : 1500
+project-leader  : CSRFGuard
+chapter-leader  : Morocco
+job-title       : IBM Security Senior Security Architect
+image           :
+email           : azzeddine.ramrami@owasp.org
+linkedin        : www.linkedin.com/in/azzeddine-ramrami-107b7a5
+twitter         :
+facebook        :
+status          : done
+---
+I will be present to present OWASP CSRFGuard project.
